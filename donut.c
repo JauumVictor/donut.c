@@ -5,8 +5,12 @@
 
 int main()
 {
-    float A = 0, B = 0, i, j, z[1760];
     int k;
+    float A = 0;
+    float B = 0;
+    float i;
+    float j;
+    float z[1760];
     char b[1760];
 
     // Limpa a tela do console
