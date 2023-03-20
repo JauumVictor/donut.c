@@ -14,6 +14,8 @@
     <p>O programa irá desenhar o donut no terminal e animá-lo.</p>
     <h2>Código-fonte</h2>
     <p>O código-fonte do programa está no arquivo <code>donut.c</code>.</p>
+    <h2>Créditos</h2>
+    <p>Este programa foi criado por Andy Sloane, fiz apenas uma explição para cada passo dele e pequenas otimizações.</p>
 </body>
 
 </html>
